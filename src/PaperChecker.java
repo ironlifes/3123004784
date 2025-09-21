@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.text.DecimalFormat;
 
+
 public class PaperChecker {
     public static void main(String[] args) {
         if (args.length != 3) {

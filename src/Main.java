@@ -122,7 +122,8 @@ public class Main {
         startTime = System.currentTimeMillis();
         double optimizedResult = OptimizedPaperChecker.optimizedCalculateSimilarity(original, plagiarized);
         long optimizedTime = System.currentTimeMillis() - startTime;
-        
+
+
         // 测试SimHash算法性能
         startTime = System.currentTimeMillis();
         double simHashResult = OptimizedPaperChecker.calculateSimilarityWithSimHash(original, plagiarized);
