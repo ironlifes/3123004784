@@ -1,10 +1,9 @@
-# 3123004784
 | 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience |
 | ---- | ---- |
 | 这个作业要求在哪里 | https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/homework/13477 |
 | 这个作业的目标 | 实现一个3000字以上论文查重程序 |
-github地址：https://github.com/ironlifes/3123004784
 
+github地址：https://github.com/ironlifes/3123004784
 - - -
 
 ##一、PSP表格如下
